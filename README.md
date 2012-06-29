@@ -8,7 +8,7 @@ Based on [Flame's competetive config](http://code.google.com/p/tf2compconfigurat
 Authors
 -------
 
-Mark McGuire "Tron Paul"
+Mark McGuire "Tron Paul" [Steam Profile](http://steamcommunity.com/id/TronPaul "Steam Profile") - [Website](http://teamunpro.com)
 
 Usage
 -----
